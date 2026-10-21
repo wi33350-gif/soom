@@ -1,0 +1,6 @@
+{
+  "name": "숨결 - 릴렉스 & 호흡교정 스튜디오",
+  "description": "과학적인 호흡 교정 훈련(4-7-8, 박스호흡, 공명호흡, 복식호흡), 실시간 시각 바이오피드백, 자연 사운드스케이프 및 릴렉스 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
